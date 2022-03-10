@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include header.html %}
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars dark-mode">
+    <!-- Modals go here -->
+    <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
+    <!-- Page wrapper start -->
+    <div class="page-wrapper with-navbar with-sidebar with-transitions" data-sidebar-type="full-height overlayed-sm-and-down">
+  
+	<!-- Navbar start -->
+		{% include navbar.html %}
+	<!-- Navbar end -->
+
+	<!-- Sidebar start -->
+		{% include sidebar.html %}
+	<!-- Sidebar end -->
+
+	<!-- Content wrapper start -->
+		<div class="content-wrapper">
+			<div class="container-fluid body">
+				<div class="row">
+					{% if page.toc %}
+					<div class="col-lg-9">
+					{% else %}
+					<div class="col-lg-12">
+					{% endif %}
+						<div class="content">
+							{% if page.notitle != true %}
+							<h1 class="content-title">
+								{{ page.title }}
+							</h1>
+							{% if page.date %}
+							<p class="content-subtitle">
+								Last updated on {{ page.date }}
+							</p>
+							{% endif %}
+							<hr />
+							{% endif %}
+							{{ content }}
+						</div>
+					</div>
+					{% if page.toc %}
+					<div class="col-lg-3 d-none d-lg-block"> <!-- d-none = display: none, d-lg-block = display: block only on large screens and up (> 992px) -->
+						<div class="content toc">
+							<h2 class="content-title font-size-16">On this page</h2> <!-- font-size-16 = font-size: 1.6rem (16px) -->
+							{% include toc.html html=content h_max=3 %}
+						</div>
+					</div>
+					{% endif %}
+				</div>
+			</div>
+			{% include copyright.html %}
+		</div>
+	<!-- Content wrapper end -->
+    </div>
+    <!-- Page wrapper end -->
+{% include footer.html %}
+</body>

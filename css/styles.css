@@ -1,0 +1,86 @@
+:root {
+    --sidebar-brand-image-height: 150px;
+    --sidebar-brand-image-margin-right: 0px;
+    --content-title-font-size: 2.4rem;
+}
+.sidebar-brand img {
+    margin: auto;
+}
+@media only screen and (min-width: 768px) {
+    :root {
+        --navbar-height: 0px;
+    }
+}
+.content-title {
+    margin-bottom: 0.25rem;
+}
+.content-subtitle {
+    margin-top: 0px;
+    margin-bottom: 0.25rem;
+}
+.bg-youtube {
+    background-color: red !important;
+}
+.bg-twitch {
+    background-color: #6441a5 !important;
+}
+.bg-twitter {
+    background-color: #1DA1F2 !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+}
+.content > h1 {
+    font-size: 2.4rem !important;
+}
+.content > h2 {
+    font-size: 2.2rem !important;
+}
+.content > h3 {
+    font-size: 2.0rem !important;
+}
+.content > h4 {
+    font-size: 1.8rem !important;
+}
+.content > h5 {
+    font-size: 1.6rem !important;
+}
+.toc {
+    position: fixed;
+}
+.body {
+    min-height: 50%;
+}
+.footer {
+	background: linear-gradient(rgba(1,10,25,1), rgba(1,10,25,.1)), url("/img/footer.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.front-video {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    max-height: 600px;
+}
+.front-video > video {
+    width: 100%;
+    margin-top: -15%;
+}
+.front-video > .hero {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('/img/bg.png'),linear-gradient(to bottom, rgba(0,0,0,0.50) 0%,rgba(0,0,0,0.50) 100%);
+    background-repeat: repeat, no-repeat;
+}
+.hero-text {
+    text-shadow: 0px 2px 10px rgba(0, 0, 0, 1);
+}
+iframe {
+    border: 0px;
+}

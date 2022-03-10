@@ -1,0 +1,49 @@
+<div class="sidebar-overlay" onclick="sidebar()"></div>
+<div class="sidebar">
+    <div class="sidebar-menu">
+        <a href="{{ '/' | relative_url }}" class="sidebar-brand">
+            <img src="{{ 'img/logo.png' | relative_url }}" alt="956 Productions">
+        </a>
+    </div>
+    <h5 class="sidebar-title">Navigation</h5>
+    <div class="sidebar-divider"></div>
+    <!-- Sidebar links and titles -->
+    {% assign sortedPages = site.pages | sort: 'title' %}
+    {% for p in sortedPages %}
+    {% if p.name != "index.md" and p.title and p.hidden != true %}
+    <a class="sidebar-link" href="{{ p.url | relative_url }}">
+        {{ p.title }}
+    </a>
+    {% endif %}
+    {% endfor %}
+    {% if site.events %}
+    {% assign sortedEvents = site.events | sort: 'name' %}
+    <h5 class="sidebar-title">Events</h5>
+    <div class="sidebar-divider"></div>
+    {% endif %}
+    {% for p in sortedEvents %}
+    <a class="sidebar-link" href="{{ p.url | relative_url }}">
+        {{ p.name }}
+    </a>
+    {% endfor %}
+    <h5 class="sidebar-title">Socials</h5>
+    <div class="sidebar-divider"></div>
+    <a href="#" class="sidebar-link sidebar-link-with-icon">
+        <span class="sidebar-icon bg-twitch text-white rounded-circle"> <!-- bg-primary = background-color: var(--primary-color), text-white = color: white, rounded-circle = border-radius: 50% --> 
+          <i class="fa fa-brands fa-twitch" aria-hidden="true"></i>
+        </span>
+        Twitch
+    </a>
+    <a href="#" class="sidebar-link sidebar-link-with-icon">
+        <span class="sidebar-icon bg-twitter text-white rounded-circle"> <!-- bg-primary = background-color: var(--primary-color), text-white = color: white, rounded-circle = border-radius: 50% --> 
+          <i class="fa fa-brands fa-twitter" aria-hidden="true"></i>
+        </span>
+        Twitter
+    </a>
+    <a href="#" class="sidebar-link sidebar-link-with-icon">
+        <span class="sidebar-icon bg-youtube text-white rounded-circle"> <!-- bg-primary = background-color: var(--primary-color), text-white = color: white, rounded-circle = border-radius: 50% --> 
+          <i class="fa fa-brands fa-youtube" aria-hidden="true"></i>
+        </span>
+        Youtube
+    </a>
+</div>

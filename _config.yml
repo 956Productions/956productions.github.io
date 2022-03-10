@@ -1,0 +1,25 @@
+defaults:
+-
+  scope:
+    path: ""
+    type: "pages"
+  values:
+    layout: "default"
+    permalink: /:basename
+plugins:
+  - jekyll-seo-tag
+title: 956 Productions
+description: "Welcome to the official site of 956 Productions. Bringing you Vortex Gallery!"
+twitch: https://twitch.tv/956productions
+twitter: 
+  username: 956productions
+  card: summary
+logo: /img/logo.png
+youtube: https://956pro.com/youtube
+events:
+  -
+    name: Vortex Gallery
+    url: https://vortexgallery.moe
+  -
+    name: Winter Gaiden
+    url: https://winter.vortexgallery.moe

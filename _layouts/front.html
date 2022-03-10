@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include header.html %}
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars dark-mode">
+    <!-- Modals go here -->
+    <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
+    <!-- Page wrapper start -->
+    <div class="page-wrapper with-navbar with-sidebar with-transitions" data-sidebar-type="full-height overlayed-sm-and-down">
+  
+	<!-- Navbar start -->
+		{% include navbar.html %}
+	<!-- Navbar end -->
+
+	<!-- Sidebar start -->
+		{% include sidebar.html %}
+	<!-- Sidebar end -->
+
+	<!-- Content wrapper start -->
+		<div class="content-wrapper">
+			<div class="front-video">
+				<video playsinline autoplay muted loop preload="none">
+					<source src="/img/demo.mp4" type="video/mp4">
+				</video>
+				<div class="hero">
+					<h1 class="hero-text font-weight-bold">We are 956.</h1>
+				</div>
+			</div>
+			<div class="container-fluid body">
+                <div class="row">
+                    <div style="flex: 9; min-width: 310px;">
+                            <div class="content">
+                                {% if page.notitle != true %}
+                                <h1 class="content-title">
+                                    {{ page.title }}
+                                </h1>
+                                {% if page.date %}
+                                <p class="content-subtitle">
+                                    Last updated on {{ page.date }}
+                                </p>
+                                {% endif %}
+                                <hr />
+                                {% endif %}
+                                {{ content }}
+                            </div>
+                    </div>
+                    <div style="flex: 3; min-width: 310px; overflow-x: hidden;">
+                        <div class="p-10">
+                            <h5>956Pro on Twitter</h5>
+                            <hr>
+                            <a class="twitter-timeline" data-chrome= "noheader nofooter transparent noborders" data-height="600" data-width="100%" data-dnt="true" data-theme="dark" href="https://twitter.com/956Productions?ref_src=twsrc%5Etfw">Tweets by 956Productions</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+                        </div>
+                    </div>
+				</div>
+			</div>
+			{% include copyright.html %}
+		</div>
+	<!-- Content wrapper end -->
+    </div>
+    <!-- Page wrapper end -->
+{% include footer.html %}
+</body>

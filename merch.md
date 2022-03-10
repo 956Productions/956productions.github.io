@@ -1,0 +1,4 @@
+---
+title: "Shop"
+hidden: true
+---
