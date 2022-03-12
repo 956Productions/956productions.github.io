@@ -1,6 +1,5 @@
 ---
 title: "Staff"
-hidden: true
 ---
 <div class="row">
 {% for s in site.data.staff %}
