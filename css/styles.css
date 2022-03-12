@@ -51,6 +51,9 @@ h1, h2, h3, h4, h5, h6 {
 .body {
     min-height: 50%;
 }
+.postbody {
+    max-width: 1150px;
+}
 .footer {
 	background: linear-gradient(rgba(1,10,25,1), rgba(1,10,25,.1)), url("/img/footer.webp");
 	background-size: cover;
@@ -95,10 +98,4 @@ iframe {
     left: 0;
     width: 100%;
     height: 100%;
-}
-#sprd-main, #sprd-container, #sprd-footer {
-    margin: 0px;
-    width: 100% !important;
-    max-width: 100% !important;
-    
 }
