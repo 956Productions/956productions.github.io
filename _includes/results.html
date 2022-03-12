@@ -1,0 +1,21 @@
+{% assign sortedResults = site.data.results[include.event] | sort: [0] %}
+{% for file in sortedResults %}
+### {{ file[0] | replace: "_"," " }}
+<hr/>
+<div class="table-responsive">
+<table class="table table-striped">
+    <thead>
+        <th> Placement </th>
+        <th> Player </th>
+    </thead>
+    <tbody>
+    {% for p in file[1] %}
+        <tr>
+            <th>{{ p["Event Placement"] }}</th>
+            <th>{{ p["Player GamerTag"] }}</th>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+{% endfor %}

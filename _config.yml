@@ -5,7 +5,7 @@ defaults:
     type: "pages"
   values:
     layout: "default"
-    permalink: /:basename
+    permalink: /:path/:basename
 plugins:
   - jekyll-seo-tag
 title: 956 Productions

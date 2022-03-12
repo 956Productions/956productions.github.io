@@ -11,9 +11,11 @@
     {% assign sortedPages = site.pages | sort: 'title' %}
     {% for p in sortedPages %}
     {% if p.name != "index.md" and p.title and p.hidden != true %}
+    {% unless p.path contains "/" %}
     <a class="sidebar-link" href="{{ p.url | relative_url }}">
         {{ p.title }}
     </a>
+    {% endunless %}
     {% endif %}
     {% endfor %}
     {% if site.events %}
