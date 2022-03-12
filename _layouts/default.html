@@ -41,8 +41,9 @@
 					</div>
 					{% if page.toc %}
 					<div class="col-lg-3 d-none d-lg-block"> <!-- d-none = display: none, d-lg-block = display: block only on large screens and up (> 992px) -->
-						<div class="content toc">
-							<h2 class="content-title font-size-16">On this page</h2> <!-- font-size-16 = font-size: 1.6rem (16px) -->
+						<div class="content toc p-10 rounded shadow bg-dark">
+							<h2 class="content-title">On this page</h2> <!-- font-size-16 = font-size: 1.6rem (16px) -->
+							<hr/>
 							{% include toc.html html=content h_max=3 %}
 						</div>
 					</div>
