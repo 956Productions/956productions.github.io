@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include header.html %}
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars dark-mode">
+    <!-- Modals go here -->
+    <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
+    <!-- Page wrapper start -->
+    <div class="page-wrapper with-navbar with-sidebar with-transitions" data-sidebar-type="full-height overlayed-sm-and-down">
+  
+	<!-- Navbar start -->
+		{% include navbar.html %}
+	<!-- Navbar end -->
+
+	<!-- Sidebar start -->
+		{% include sidebar.html %}
+	<!-- Sidebar end -->
+
+	<!-- Content wrapper start -->
+		<div class="content-wrapper">
+			{{ content }}
+			{% include copyright.html %}
+		</div>
+	<!-- Content wrapper end -->
+    </div>
+    <!-- Page wrapper end -->
+{% include footer.html %}
+</body>
