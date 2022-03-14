@@ -7,6 +7,7 @@ media_folder: 'img'
 search: true
 site_url: https://956productions.github.io
 display_url: https://956productions.github.io
+slug: '{{slug}}'
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -25,6 +26,7 @@ collections:
     label: 'Static Pages'
     folder: '/'
     create: true
+    slug: '{{dirname}}/{{filename}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
