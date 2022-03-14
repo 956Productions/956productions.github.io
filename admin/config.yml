@@ -7,7 +7,6 @@ media_folder: 'img'
 search: true
 site_url: https://956productions.github.io
 display_url: https://956productions.github.io
-slug: '{{slug}}'
 collections:
   - name: 'blog'
     label: 'Blog'
