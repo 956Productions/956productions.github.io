@@ -1,0 +1,12 @@
+backend:
+  name: github
+  repo: 956productions/956productions.github.io   # Path to your Github repository
+  branch: main              # Branch to update
+  base_url: https://ninefivesix-oauth.herokuapp.com
+media_folder: 'img'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    fields:
+      - { name: Title }
