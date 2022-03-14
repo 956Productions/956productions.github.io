@@ -16,7 +16,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
-    label: 'Pages'
+    label: 'Static Page'
     folder: '/'
     create: true
     fields:
@@ -24,7 +24,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'results'
-    label: 'Results'
+    label: 'Results Page'
     folder: 'results/'
     nested:
       depth: 100
@@ -34,3 +34,9 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'resultscsv'
+    label: 'Results CSVs'
+    folder: '_data/results/'
+    nested:
+      depth: 100
+      summary: '{{title}}'
