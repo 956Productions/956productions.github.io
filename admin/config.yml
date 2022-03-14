@@ -40,3 +40,7 @@ collections:
     nested:
       depth: 100
       summary: '{{title}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
