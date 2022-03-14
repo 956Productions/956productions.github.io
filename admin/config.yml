@@ -12,35 +12,30 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
+      - { label: 'Redirect?', name: 'redirect', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: "default" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
   - name: 'pages'
     label: 'Static Page'
     folder: '/'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
+      - { label: 'Redirect?', name: 'redirect', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: "default" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
   - name: 'results'
     label: 'Results Page'
     folder: 'results/'
-    nested:
-      depth: 100
-      summary: '{{title}}'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'resultscsv'
-    label: 'Results CSVs'
-    folder: '_data/results/'
-    nested:
-      depth: 100
-      summary: '{{title}}'
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
+      - { label: 'Redirect?', name: 'redirect', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: "default" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
