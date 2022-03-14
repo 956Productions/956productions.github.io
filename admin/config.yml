@@ -28,7 +28,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false }
-      - { label: 'Custom Slug', name: 'slug', widget: 'string', required: false }
+      - { label: 'permalink', name: 'permalink', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, required: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, required: false }
