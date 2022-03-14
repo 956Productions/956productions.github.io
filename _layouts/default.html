@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-{% if page.external %}
+{% if page.redirect %}
 <script>
-	window.location.href = "{{page.external}}";
+	window.location.href = "{{ page.redirect }}";
 </script>
 {% endif %}
 {% include header.html %}
