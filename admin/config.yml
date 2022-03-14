@@ -15,12 +15,12 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
-      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
-      - { label: 'Redirect URL?', name: 'redirect', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', optional: true }
+      - { label: 'Body', name: 'body', widget: 'markdown', optional: true }
+      - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, optional: true }
+      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, optional: true }
+      - { label: 'Redirect URL?', name: 'redirect', widget: 'string', optional: true }
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"], optional: true }
   - name: 'pages'
     label: 'Static Pages'
     folder: '/'
@@ -28,13 +28,13 @@ collections:
     slug: '{{dirname}}/{{filename}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Slug', name: 'slug', widget: 'string', default: '{{dirname}}/{{filename}}' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
-      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
-      - { label: 'Redirect URL?', name: 'redirect', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', optional: true }
+      - { label: 'Custom Slug', name: 'slug', widget: 'string', optional: true }
+      - { label: 'Body', name: 'body', widget: 'markdown', optional: true }
+      - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, optional: true }
+      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, optional: true }
+      - { label: 'Redirect URL?', name: 'redirect', widget: 'string', optional: true }
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], optional: true }
   - name: 'results'
     label: 'Results Pages'
     folder: 'results/'
