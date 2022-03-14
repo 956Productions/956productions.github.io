@@ -31,6 +31,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, required: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, required: false }
+      - { label: 'Hide from Navigation?', name: 'hidden', widget: 'boolean', default: false, required: false }
       - { label: 'Redirect URL?', name: 'redirect', widget: 'string', required: false }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
