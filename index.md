@@ -5,7 +5,9 @@ layout: front
 ---
 ## Our work
 ----
-VORTEX GALLERY is a series of events run by the collaboration of a group of volunteer tournament organizers, streamers, bracket runners, chat mods, and commentators during the EVO Championship Series, or online as its own separate event. Now featuring our Winter side story: WINTER GAIDEN. Formerly known as AnimEVO.
+VORTEX GALLERY is a series of events run by the collaboration of a group of volunteer tournament organizers, streamers, bracket runners, chat mods, and commentators during the EVO Championship Series, or online as its own separate event. Now featuring our Winter side story: WINTER GAIDEN.
+
+Formerly known as AnimEVO.
 
 ## Our experience
 ----
