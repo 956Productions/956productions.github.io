@@ -6,7 +6,6 @@ backend:
 media_folder: 'img'
 search: true
 site_url: https://956productions.github.io
-display_url: https://956productions.github.io
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -25,24 +24,26 @@ collections:
     label: 'Static Pages'
     folder: '/'
     create: true
+    slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false }
-      - { label: 'permalink', name: 'permalink', widget: 'string', required: false }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, required: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, required: false }
       - { label: 'Redirect URL?', name: 'redirect', widget: 'string', required: false }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], required: false }
+      - { label: 'Slug', name: 'slug', widget: 'string', required: false }
   - name: 'results'
     label: 'Results Pages'
     folder: 'results/'
     create: true
+    slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
       - { label: 'Redirect URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"] }
+      - { label: 'Slug', name: 'slug', widget: 'string', required: false }
