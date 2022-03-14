@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: 956productions/956productions.github.io   # Path to your Github repository
-  branch: main              # Branch to update
+  branch: main   # Branch to update
   base_url: https://ninefivesix-oauth.herokuapp.com
 media_folder: 'img'
 collections:
@@ -18,6 +18,16 @@ collections:
   - name: 'pages'
     label: 'Pages'
     folder: '/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'results'
+    label: 'Results'
+    folder: 'results/'
+    nested:
+      - summary: '{{title}}'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
