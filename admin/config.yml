@@ -27,7 +27,7 @@ collections:
     label: 'Results'
     folder: 'results/'
     nested:
-      - summary: '{{title}}'
+      summary: '{{title}}'
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
