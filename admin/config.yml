@@ -29,6 +29,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Slug', name: 'slug', widget: 'string', default: '{{dirname}}/{{filename}}' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
