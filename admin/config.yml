@@ -27,6 +27,7 @@ collections:
     label: 'Results'
     folder: 'results/'
     nested:
+      depth: 100
       summary: '{{title}}'
     create: true
     fields:
