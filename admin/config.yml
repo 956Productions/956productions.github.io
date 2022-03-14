@@ -25,7 +25,6 @@ collections:
     label: 'Static Pages'
     folder: '/'
     create: true
-    slug: '{{dirname}}/{{filename}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false }
