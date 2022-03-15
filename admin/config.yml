@@ -23,6 +23,21 @@ collections:
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, required: false }
       - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"], required: false }
+  - name: 'results'
+    label: 'Results Page'
+    folder: 'results/'
+    editor:
+      preview: false
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'results/{{filename}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
+      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
+      - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"] }
   - name: 'pages'
     label: 'Static Page'
     folder: '/'
@@ -41,27 +56,15 @@ collections:
       - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
-  - name: 'results'
-    label: 'Results Page'
-    folder: 'results/'
-    editor:
-      preview: false
-    create: true
-    slug: '{{slug}}'
-    preview_path: 'results/{{filename}}'
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
-      - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
-      - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"] }
-  - name: 'includes'
-    label: 'Includes'
-    folder: '_includes/'
-    create: true
-    slug: '{{slug}}.html'
-    extension: 'html'
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'code' }
+  - name: "config"
+    label: "Config"
+    files:
+      - name: "options"
+        label: "Site Options"
+        file: "_config.yml"
+        fields:
+          - { label: 'Site Title', name: 'title', widget: 'string' }
+          - { label: 'Tagline', name: 'description', widget: 'string' }
+          - { label: 'Twitch URL', name: 'twitch', widget: 'string' }
+          - { label: 'Twitter Username', name: 'twitter.username', widget: 'string' }
+          - { label: 'YouTube URL', name: 'youtube', widget: 'string' }
