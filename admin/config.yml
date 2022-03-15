@@ -58,6 +58,8 @@ collections:
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
   - name: 'config'
     label: 'Config'
+    editor:
+      preview: false
     files:
       - name: 'options'
         label: 'Site options'
