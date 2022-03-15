@@ -56,15 +56,19 @@ collections:
       - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
-  - name: "config"
-    label: "Config"
+  - name: 'config'
+    label: 'Config'
     files:
-      - name: "options"
-        label: "Site Options"
-        file: "_config.yml"
+      - name: 'options'
+        label: 'Site options'
+        file: '_config.yml'
         fields:
           - { label: 'Site Title', name: 'title', widget: 'string' }
           - { label: 'Tagline', name: 'description', widget: 'string' }
           - { label: 'Twitch URL', name: 'twitch', widget: 'string' }
-          - { label: 'Twitter Username', name: 'twitter.username', widget: 'string' }
+          - label: 'Twitter'
+            name: 'twitter'
+            widget: 'list'
+            fields:
+              - { label: 'Username', name: 'username', widget: 'string' }
           - { label: 'YouTube URL', name: 'youtube', widget: 'string' }
