@@ -72,6 +72,5 @@ collections:
             name: 'twitter'
             widget: 'list'
             allow_add: false
-            field:
-              - { label: 'Value', name: 'value', widget: 'string' }
+            field: { label: 'Value', name: 'value', widget: 'string' }
           - { label: 'YouTube URL', name: 'youtube', widget: 'string' }
