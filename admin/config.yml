@@ -4,6 +4,7 @@ backend:
   branch: main   # Branch to update
   base_url: https://ninefivesix-oauth.herokuapp.com
 media_folder: 'uploads'
+publish_mode: editorial_workflow
 search: true
 site_url: https://956productions.github.io
 collections:
