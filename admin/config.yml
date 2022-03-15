@@ -52,7 +52,8 @@ collections:
       - { label: 'Hide from Navigation?', name: 'hidden', widget: 'boolean', default: false, required: false }
       - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string', required: false }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: "default", required: false }
-      - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }  - name: 'config'
+      - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }
+  - name: 'config'
     label: 'Config'
     editor:
       preview: false
