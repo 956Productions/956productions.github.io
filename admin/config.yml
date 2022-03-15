@@ -10,6 +10,8 @@ collections:
   - name: 'blog'
     label: 'Blog Post'
     folder: '_posts/'
+    editor:
+      preview: false
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: 'blog/{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -24,6 +26,8 @@ collections:
   - name: 'pages'
     label: 'Static Page'
     folder: '/'
+    editor:
+      preview: false
     create: true
     slug: '{{slug}}'
     preview_path: '{{filename}}'
@@ -40,6 +44,8 @@ collections:
   - name: 'results'
     label: 'Results Page'
     folder: 'results/'
+    editor:
+      preview: false
     create: true
     slug: '{{slug}}'
     preview_path: 'results/{{filename}}'
@@ -55,6 +61,7 @@ collections:
     folder: '_includes/'
     create: true
     slug: '{{slug}}.html'
+    extension: 'html'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'code' }
