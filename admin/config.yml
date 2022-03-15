@@ -3,28 +3,30 @@ backend:
   repo: 956productions/956productions.github.io   # Path to your Github repository
   branch: main   # Branch to update
   base_url: https://ninefivesix-oauth.herokuapp.com
-media_folder: 'img'
+media_folder: 'uploads'
 search: true
 site_url: https://956productions.github.io
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'Blog Post'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    preview_path: 'blog/{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, required: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, required: false }
-      - { label: 'Redirect URL?', name: 'redirect', widget: 'string', required: false }
+      - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"], required: false }
   - name: 'pages'
-    label: 'Static Pages'
+    label: 'Static Page'
     folder: '/'
     create: true
     slug: '{{slug}}'
+    preview_path: '{{filename}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Permalink', name: 'permalink', widget: 'string', required: false }
@@ -32,19 +34,27 @@ collections:
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false, required: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false, required: false }
       - { label: 'Hide from Navigation?', name: 'hidden', widget: 'boolean', default: false, required: false }
-      - { label: 'Redirect URL?', name: 'redirect', widget: 'string', required: false }
+      - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], required: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
   - name: 'results'
-    label: 'Results Pages'
+    label: 'Results Page'
     folder: 'results/'
     create: true
     slug: '{{slug}}'
+    preview_path: 'results/{{filename}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Hide page title?', name: 'notitle', widget: 'boolean', default: false }
       - { label: 'Show TOC?', name: 'toc', widget: 'boolean', default: false }
-      - { label: 'Redirect URL?', name: 'redirect', widget: 'string' }
+      - { label: 'Redirect page to URL?', name: 'redirect', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'select', options: ["default","front"], default: ["default"] }
-      - { label: 'Slug', name: 'slug', widget: 'string', required: false }
+  - name: 'includes'
+    label: 'Includes'
+    folder: '_includes/'
+    create: true
+    slug: '{{slug}}.html'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'code' }
