@@ -71,8 +71,10 @@ collections:
           - { label: 'YouTube URL', name: 'youtube', widget: 'string' }
           - label: 'Twitter'
             name: 'twitter'
-            widget: 'list'
-            field: { label: 'Value', name: 'value', widget: 'string' }
+            widget: 'object'
+            fields:
+              - { label: 'Username', name: 'username', widget: 'string' }
+              - { label: 'Card', name: 'card', widget: 'hidden' }
           - label: 'Events'
             name: 'events'
             widget: 'list'
