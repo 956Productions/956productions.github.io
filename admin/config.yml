@@ -69,6 +69,8 @@ collections:
           - label: 'Twitter'
             name: 'twitter'
             widget: 'list'
+            allow_add: false
             fields:
               - { label: 'Username', name: 'username', widget: 'string' }
+              - { label: "Card", name: "card", widget: "hidden", default: "summary" }
           - { label: 'YouTube URL', name: 'youtube', widget: 'string' }
