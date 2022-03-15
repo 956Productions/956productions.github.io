@@ -74,7 +74,7 @@ collections:
             widget: 'list'
             field: { label: 'Value', name: 'value', widget: 'string' }
           - label: 'Events'
-            name: 'events
+            name: 'events'
             widget: 'list'
             fields:
               - { label: 'Name', name: 'name', widget: 'string' }
