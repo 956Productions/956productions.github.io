@@ -110,6 +110,12 @@ iframe {
 .toc ul {
     margin: 0;
 }
+.toc ul > li {
+    margin-bottom: 0.5rem;
+}
+.toc a {
+    font-size: 1.2rem;
+}
 .postbody img {
     max-width: 100%;
     height: auto;
