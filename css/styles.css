@@ -110,3 +110,7 @@ iframe {
 .toc ul {
     margin: 0;
 }
+.postbody img {
+    max-width: 100%;
+    height: auto;
+}
