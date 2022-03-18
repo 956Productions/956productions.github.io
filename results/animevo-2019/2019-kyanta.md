@@ -15,11 +15,9 @@ coverImage: "logo_ufd_kyanta.png"
 - 7th: [SeniorChildren](@videoshuevos)
 - 7th: RP Genius
 
-https://www.youtube.com/watch?v=\_MUtO\_Tji4Y&list=PLCBliRMaXdKNTNPQoODvH\_KCvtXkb-AGE
+{% include embed_yt.html embed='https://www.youtube.com/embed/_MUtO_Tji4Y' %}
 
-Full Tournament VOD Playlist  
-
-* * *
+[Full Tournament VOD Playlist](https://www.youtube.com/watch?v=_MUtO_Tji4Y&list=PLCBliRMaXdKNTNPQoODvH_KCvtXkb-AGE)
 
 ## Schedule
 

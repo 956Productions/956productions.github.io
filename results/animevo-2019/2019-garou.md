@@ -4,7 +4,7 @@ date: "2019-04-09"
 coverImage: "logo_garou.png"
 ---
 
-![](https://i2.wp.com/animevo.moe/wordpress/wp-content/uploads/2019/10/motw_top4.jpg?fit=840%2C630&ssl=1)
+![](/uploads/motw_top4.jpg)
 
 ## Results
 
@@ -17,15 +17,13 @@ coverImage: "logo_garou.png"
 - 7th: [SolGoodGuy](@thesolgoodguy)
 - 7th: Kumamiyako
 
-https://www.youtube.com/watch?v=UwI8s3e\_cBw
+{% include embed_yt.html embed='https://www.youtube.com/embed/UwI8s3e\_cBw' %}
 
 Pools to Top 4 VOD
 
-https://www.youtube.com/watch?v=iHl1wE5Ik0A
+{% include embed_yt.html embed='https://www.youtube.com/embed/iHl1wE5Ik0A' %}
 
 Top 4 VOD
-
-* * *
 
 ## Schedule
 

@@ -16,8 +16,8 @@ coverImage: "Dan-Ku-Ga-logo-420.png"
 - 4th: [Mibeador](https://twitter.com/Mibeador) (Azteca)
 - 5th: [Hatman](https://twitter.com/TwitHatman) (Lihua)
 - 5th: [Griffybones](https://twitter.com/GriffyBones) (Lihua)
-- 7th: 4 | [Skuttie](https://twitter.com/SkuttieG) (Liza, Gekkou)
-- 7th: SNAIL | [Inami](https://twitter.com/Inami______) (Kazuya)
+- 7th: 4 \| [Skuttie](https://twitter.com/SkuttieG) (Liza, Gekkou)
+- 7th: SNAIL \| [Inami](https://twitter.com/Inami______) (Kazuya)
 
 ## Tournament Details
 

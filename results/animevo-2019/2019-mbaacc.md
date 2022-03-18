@@ -6,20 +6,16 @@ coverImage: "game_melty.png"
 
 ## [Results](https://smash.gg/tournament/animevo-2019/events/melty-blood-actress-again-current-code/overview)
 
-- 1st: Big-One 2nd | [Ura](@sonic_uhs_ronso) (H-Satsuki)
-- 2nd: Big-One 2nd | [Moai](@moai_no_oh) (C-Satsuki)
+- 1st: Big-One 2nd \| [Ura](@sonic_uhs_ronso) (H-Satsuki)
+- 2nd: Big-One 2nd \| [Moai](@moai_no_oh) (C-Satsuki)
 - 3rd: [KFL](@KaraFail) (C-Arcuied)
 - 4th: [ScrawtVermillion](@ScrawtV) (C-Sion)
 - 5th: [Sleepy Basilisk](@SleepyBasilisk) (F-Hime)
-- 5th: THE WAVE | [K-TA](@nagakei121) (H-Akiha)
+- 5th: THE WAVE \| [K-TA](@nagakei121) (H-Akiha)
 - 7th: TeruTime (F-Powered Ciel)
 - 7th: Kyou (F-W.Arcuied)
 
-https://www.youtube.com/watch?v=VrPAp99i8i0
-
-Top 4 Rip
-
-* * *
+{% include embed_yt.html embed='https://www.youtube.com/embed/VrPAp99i8i0' %}
 
 ## Schedule
 

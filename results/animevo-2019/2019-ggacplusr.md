@@ -4,26 +4,24 @@ date: "2019-04-09"
 coverImage: "game_ggplusr.png"
 ---
 
-![](https://i1.wp.com/animevo.moe/wordpress/wp-content/uploads/2019/10/ggacpr_top8.jpg?fit=840%2C475&ssl=1)
+![](/uploads/ggacpr_top8.jpg)
 
 Top 8
 
 ## Results
 
-- 1st: FF | [Elvenshadow](@elvenshadowmike) (Faust)
-- 2nd: SRK | [Woocash](@LukeShooty) (Anji, Baiken)
+- 1st: FF \| [Elvenshadow](@elvenshadowmike) (Faust)
+- 2nd: SRK \| [Woocash](@LukeShooty) (Anji, Baiken)
 - 3rd: [RealGranola](@RealGranola) (Slayer)
 - 4th: Moriyasu (Chipp)
 - 5th: [PhaethonH](@PhaethonH) (May)
 - 5th: WingZero (Johnny)
-- 7th: FuManChu | [DQRF](@DQRF52) (Sol, Kliff)
+- 7th: FuManChu \| [DQRF](@DQRF52) (Sol, Kliff)
 - 7th: Aligari (Order-Sol)
 
-https://www.youtube.com/watch?v=lvpe7mbqmkQ
+{% include embed_yt.html embed='https://www.youtube.com/embed/lvpe7mbqmkQ' %}
 
 ## [VOD Link](https://www.youtube.com/watch?v=lvpe7mbqmkQ)
-
-* * *
 
 ## Schedule
 

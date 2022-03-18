@@ -15,11 +15,9 @@ coverImage: "game_aquapazza.png"
 - 7th: servaljuke
 - 7th: purifyws
 
-https://www.youtube.com/watch?v=IdQ5cvIE4lg&list=PLBsbj\_QbyY-GR57yNGrqNr5CdUBfQOx32&index=14
+{% include embed_yt.html embed='https://www.youtube.com/embed/IdQ5cvIE4lg' %}
 
 Full Tournament VOD
-
-* * *
 
 ## Schedule
 

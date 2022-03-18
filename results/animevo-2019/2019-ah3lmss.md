@@ -7,19 +7,17 @@ coverImage: "logo_ah3lmss.png"
 ## [Results](https://smash.gg/tournament/animevo-2019/events/arcana-heart-3-love-max-six-stars-1/overview)
 
 - 1st: [Yutta](@yuttabb) (Es)
-- 2nd: CAG | [Fenritti](@fenritti) (Jin)
-- 3rd: GRAPHT | [dora\_bang](@dora_bang) (Bang)
+- 2nd: CAG \| [Fenritti](@fenritti) (Jin)
+- 3rd: GRAPHT \| [dora\_bang](@dora_bang) (Bang)
 - 4th: [Elyon](@elyon_i) (Jubei)
-- 5th: WP/DH | [Souji](@soujif91) (Arakune)
+- 5th: WP/DH \| [Souji](@soujif91) (Arakune)
 - 5th: [brkrdv](@brkrdv) (Arakune)
 - 7th: [Betadood](@betadood) (Ragna)
 - 7th: [Nuka](@stasis99) (Mu-12)
 
-https://www.youtube.com/watch?v=p6phtC0GLnQ&list=PLBsbj\_QbyY-GR57yNGrqNr5CdUBfQOx32&index=13
+{% include embed_yt.html embed='https://www.youtube.com/embed/p6phtC0GLnQ' %}
 
 Full Tournament VOD
-
-* * *
 
 ## Schedule
 

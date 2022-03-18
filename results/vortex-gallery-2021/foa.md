@@ -13,13 +13,13 @@ https://www.youtube.com/watch?v=\_QpAwAfWNOA
 ![](/uploads/foa-asia-top3-1024x576.jpeg)
 
 - 1st: [フェア](https://twitter.com/fair_loves_luka) (Kungfu Dachshund )
-- 2nd: IMP | VGD (Muscle Beluga/Egg Dog)
-- 3rd: CPC | [Laezax](https://twitter.com/Laezax) (Magic Squirrel/Muscle Beluga/Egg Dog)
-- 4th: InC | [TohLoop](https://twitter.com/AndrewOYK) (Kungfu Dachshund )
+- 2nd: IMP \| VGD (Muscle Beluga/Egg Dog)
+- 3rd: CPC \| [Laezax](https://twitter.com/Laezax) (Magic Squirrel/Muscle Beluga/Egg Dog)
+- 4th: InC \| [TohLoop](https://twitter.com/AndrewOYK) (Kungfu Dachshund )
 - 5th: RM9 (Slender Cat)
 - 5th: [WHH](https://twitter.com/WHH_398) (Egg Dog)
 - 7th: [Weebmaru](https://twitter.com/Weebmaru1) (Muscle Beluga)
-- 7th: GM | Alden (Fluffy Sheep)
+- 7th: GM \| Alden (Fluffy Sheep)
 
 ## Asia Tournament Details
 
@@ -42,12 +42,12 @@ https://www.youtube.com/watch?v=\_QpAwAfWNOA
 ## [North America + Europe Tournament Results](https://twitter.com/s_hiburizu/status/1433992084638343168?s=20) \[[Bracket](https://smash.gg/tournament/vortex-gallery-2021/event/fight-of-animals-na-eu-1/brackets/951910/1512439)\] \[[VOD](https://www.twitch.tv/videos/1171752692)\]
 
 - 1st: [JrJam](https://twitter.com/thejrjam) (Egg Dog)
-- 2nd: S-Men | [ChairGTables](https://twitter.com/chairGTables) (Muscle Beluga)
+- 2nd: S-Men \| [ChairGTables](https://twitter.com/chairGTables) (Muscle Beluga)
 - 3rd: [Butt69](https://twitter.com/kingbutt69) (Slender Cat)
 - 4th: \[Lem\](https://twitter.com/ Lem\_\_\_\_\_\_\_\_\_\_\_) (Walking Cat)
 - 5th: Wahh (Kungfu Dachshund)
-- 5th: S-Men | Hazuki (Mighty Fox)
-- 7th: S-Men | Mashiro (Walking Cat)
+- 5th: S-Men \| Hazuki (Mighty Fox)
+- 7th: S-Men \| Mashiro (Walking Cat)
 - 7th: Kei (Fluffy Sheep)
 
 ## North America + Europe Tournament Details

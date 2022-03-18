@@ -12,12 +12,12 @@ https://www.youtube.com/watch?v=6K0sRKD31ig
 
 ![Image](https://pbs.twimg.com/media/E-acCkwVEAYgiUC?format=jpg&name=large)
 
-- 1st: HCH | [Monkey4012](https://twitter.com/Monkey4012) (Yumi/Adachi/Ruby/Mai/Jhin)
-- 2nd: MM | [Caderad24](https://twitter.com/Caderade241) (Naoto K./Akatsuki)
+- 1st: HCH \| [Monkey4012](https://twitter.com/Monkey4012) (Yumi/Adachi/Ruby/Mai/Jhin)
+- 2nd: MM \| [Caderad24](https://twitter.com/Caderade241) (Naoto K./Akatsuki)
 - 3rd: [Mastrcheap](https://twitter.com/mastrcheap) (Ragna/Mika/Akihiko)
-- 4th: MM | [MysteryRacer21](https://twitter.com/asisracer) (Naoto S./Adachi)
+- 4th: MM \| [MysteryRacer21](https://twitter.com/asisracer) (Naoto S./Adachi)
 - 5th: [Kitean99](https://twitter.com/kitean99) (Yukiko/Hilda)
-- 5th: TsC | [Jigz510](https://twitter.com/trejon510) (Orie/Ruby)
+- 5th: TsC \| [Jigz510](https://twitter.com/trejon510) (Orie/Ruby)
 - 7th: [Royal Rose](https://twitter.com/RoseTrey25) (Yang/Ruby)
 - 7th: [Bluesub](https://twitter.com/bleusive) (Akatsuki/Naoto K.)
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=\_hslitq0q50&t=6s
 - 3rd: [Duckator](https://twitter.com/duckator_) (Heart/Labrys)
 - 4th: [Serene Smile](N/A) (Waldstein/Rachel)
 - 5th: Garfield (Adachi/Ruby)
-- 5th: MM | [Faded](https://twitter.com/fadeddadragon) (Platinum/Yosuke)
+- 5th: MM \| [Faded](https://twitter.com/fadeddadragon) (Platinum/Yosuke)
 - 7th: [DGF](https://twitter.com/darkgravityflam) (Susano/Ruby)
 - 7th: [Playguy](N/A) (Weiss/Ragna)
 

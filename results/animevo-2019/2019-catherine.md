@@ -4,24 +4,22 @@ date: "2019-06-17"
 coverImage: "game_catherine.png"
 ---
 
-![](https://i1.wp.com/animevo.moe/wordpress/wp-content/uploads/2019/10/catherine2.jpg?fit=840%2C560&ssl=1)
+![](/uploads/catherine2.jpg)
 
 ## [Results](https://smash.gg/tournament/animevo-2019/events/catherine-original-version/overview)
 
 - 1st: [Shas](@_Shasties_)
-- 2nd: CallMe | [Sig](@psi_sig)
+- 2nd: CallMe \| [Sig](@psi_sig)
 - 3rd: [Geordi](@_geordi_)
 - 4th: [rino\_pk](@rino_pk)
 - 5th: [Linus](@Wasabilinus)
-- 5th: CallMe | [silentblackcat](@silentblackcat_)
+- 5th: CallMe \| [silentblackcat](@silentblackcat_)
 - 7th: [Chachie](@callmechachie)
 - 7th: [Mekasue](@mekasueBI)
 
-https://www.youtube.com/watch?v=8tgARGXeWH4
+{% include embed_yt.html embed='https://www.youtube.com/embed/8tgARGXeWH4' %}
 
 Full Tournament VOD
-
-* * *
 
 ## Schedule
 

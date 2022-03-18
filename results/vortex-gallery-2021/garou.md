@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=tsqlxSGOU3w
 
 - 1st: [Kota](https://twitter.com/kotahugo) (B. Jenet)
 - 2nd: [ZeroEightThree](https://twitter.com/ZeroEightThree_) (Rock)
-- 3rd: Neut|Ral (Marco Rodriguez)
+- 3rd: Neut\|Ral (Marco Rodriguez)
 - 4th: [Pweting](https://twitter.com/UnPweting) (B. Jenet)
 - 5th: [GillStoleMyRide](https://twitter.com/Gillstolemyride) (Hokutomaru)
 - 5th: NM\_Akuma (Gato)

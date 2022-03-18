@@ -4,30 +4,28 @@ date: "2019-04-09"
 coverImage: "logo_kof14.png"
 ---
 
-![](https://i1.wp.com/animevo.moe/wordpress/wp-content/uploads/2019/10/kof_players.jpg?fit=840%2C473&ssl=1)
+![](/uploads/kof_players.jpg)
 
 KOF XIV Squad
 
 ## [Results](https://smash.gg/tournament/animevo-2019/events/the-king-of-fighters-xiv/overview)
 
 - 1st: [E.T](@ET1120)
-- 2nd: Krone | [Abao](@abao014)
+- 2nd: Krone \| [Abao](@abao014)
 - 3rd: [Score](@score33333)
 - 4th: Vader
-- 5th: TxC | [El Rosa](@elr0sa)
-- 5th: VegasKOF | [WeroAsamiya](@weroasamiya)
-- 7th: Brooks | [ZJZ](@ZJZ_GxBridget)
-- 7th: vSlash | [White-AshX](@White_Ashx)
+- 5th: TxC \| [El Rosa](@elr0sa)
+- 5th: VegasKOF \| [WeroAsamiya](@weroasamiya)
+- 7th: Brooks \| [ZJZ](@ZJZ_GxBridget)
+- 7th: vSlash \| [White-AshX](@White_Ashx)
 
-https://www.youtube.com/watch?v=RlcTSIzBG-E
+{% include embed_yt.html embed='https://www.youtube.com/embed/phGYE7URcvQ' %}
 
 Pools VOD
 
-https://www.youtube.com/watch?v=phGYE7URcvQ
+{% include embed_yt.html embed='https://www.youtube.com/embed/phGYE7URcvQ' %}
 
 Top 8 VOD
-
-* * *
 
 ## Schedule
 

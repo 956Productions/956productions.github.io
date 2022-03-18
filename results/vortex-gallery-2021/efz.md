@@ -43,9 +43,9 @@ https://youtu.be/L6hOyEiP8SQ
 https://www.youtube.com/watch?v=Le2TJFJ09d4
 
 - 1st: [Juaking](https://twitter.com/LotteBestWitch) (Doppel,Akiko)
-- 2nd: Gensou | [Lusvik](https://twitter.com/gustavo_lusvik) (Mayu)
+- 2nd: Gensou \| [Lusvik](https://twitter.com/gustavo_lusvik) (Mayu)
 - 3rd: [Donnie](https://twitter.com/swift_donnie) (Ayu)
-- 4th: Power Golfer | Sakurako Oomuro (Doppel,Rumi)
+- 4th: Power Golfer \| Sakurako Oomuro (Doppel,Rumi)
 - 5th: Furymash- (Mayu)
 - 5th: [Canceris](https://twitter.com/cancerisR) (Makoto)
 - 7th: [Gold\_Experience45](https://twitter.com/GoldEpx45) (Misuzu)

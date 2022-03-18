@@ -6,24 +6,22 @@ coverImage: "logo_wj.png"
 
 ## [Results](https://smash.gg/tournament/animevo-2019/events/windjammers/overview)
 
-- 1st: WF | [Pyrotek](@Pyrotek)
+- 1st: WF \| [Pyrotek](@Pyrotek)
 - 2nd: [Santa With Muscles](@StupidJr)
 - 3rd: Maska
 - 4th: [Geordi](@_Geordi_)
 - 5th: [Crypt Kiddie](@Crypt_Kiddie)
-- 5th: Jam The Wind | [Fireball](@JamTheWind)
+- 5th: Jam The Wind \| [Fireball](@JamTheWind)
 - 7th: [Shas](@_Shasties_)
 - 7th: WonderWomack
 
-https://www.youtube.com/watch?v=XJV\_JiV9rq8
+{% include embed_yt.html embed='https://www.youtube.com/embed/XJV_JiV9rq8' %}
 
 Top 4
 
-https://www.youtube.com/watch?v=SGv5CfAL-5M
+{% include embed_yt.html embed='https://www.youtube.com/embed/SGv5CfAL-5M' %}
 
 Windjammers 2 Exhibition
-
-* * *
 
 ## Schedule
 

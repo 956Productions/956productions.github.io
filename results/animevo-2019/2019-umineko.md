@@ -9,17 +9,15 @@ coverImage: "umineko_logo.png"
 - 1st: [Betadood](@betadood) (Battler/Ange)
 - 2nd: [SleepyBasilisk](@SleepyBasilisk) (Bernkastel/Dlanor)
 - 3rd: SolarKnight (Ronove/Willard)
-- 4th: #EmbraceSalt | [LUEshi](@LUEshi781) (Jessica/Lucifer, Jessica/Bernkastel)
-- 5th: BGs | [Winty](@Wintydunno) (EVA/Ange)
-- 5th: XD | [ShinsoBEAM](@AaronSNagy) (Rosa/Ange, Lucifer/Ange, Battler/Dlanor, Ange/Dlanor)
-- 7th: BadAtFightGames | FML (Battler/Beatrice)
-- 7th: PAG | [VickiViper](@VickiViperZabel) (George/Jessica)
+- 4th: #EmbraceSalt \| [LUEshi](@LUEshi781) (Jessica/Lucifer, Jessica/Bernkastel)
+- 5th: BGs \| [Winty](@Wintydunno) (EVA/Ange)
+- 5th: XD \| [ShinsoBEAM](@AaronSNagy) (Rosa/Ange, Lucifer/Ange, Battler/Dlanor, Ange/Dlanor)
+- 7th: BadAtFightGames \| FML (Battler/Beatrice)
+- 7th: PAG \| [VickiViper](@VickiViperZabel) (George/Jessica)
 
-https://www.youtube.com/watch?v=BYwlOtpo1N8&list=PLQ22eS-IF40g1ydK2Y3kRTAU-ktRjBFLS
+{% include embed_yt.html embed='https://www.youtube.com/embed/BYwlOtpo1N8' %}
 
-Full Tournament Playlist
-
-* * *
+[Full Tournament Playlist](https://www.youtube.com/watch?v=BYwlOtpo1N8&list=PLQ22eS-IF40g1ydK2Y3kRTAU-ktRjBFLS)
 
 ## Schedule
 
@@ -30,8 +28,6 @@ Full Tournament Playlist
 ### Finals
 
 - Finals will be played immediately following pools.
-
-* * *
 
 ## Details
 

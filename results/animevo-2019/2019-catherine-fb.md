@@ -4,22 +4,20 @@ date: "2019-04-09"
 coverImage: "logo_catherinefb.png"
 ---
 
-![](https://i2.wp.com/animevo.moe/wordpress/wp-content/uploads/2019/10/catherine1-1.jpg?fit=840%2C560&ssl=1)
+![](/uploads/catherine1-1.jpg)
 
 ## [Results](https://smash.gg/tournament/animevo-2019/events/catherine-full-body/overview			)
 
 - 1st: [Linus](@Wasabilinus)
-- 2nd: CallMe | [silentblackcat](@silentblackcat_)
+- 2nd: CallMe \| [silentblackcat](@silentblackcat_)
 - 3rd: [rino\_pk](@rino_pk)
 - 4th: [Shas](@_Shasties_)
-- 5th: CallMe | [Sig](@psi_sig)
+- 5th: CallMe \| [Sig](@psi_sig)
 - 5th: [Edogawa](@LNMedgw)
 - 7th: [Geordi](@_geordi_)
 - 7th: [Maester\_Sketches](@MaesterSketches)
 
-https://www.youtube.com/watch?v=pfaZExA2ot0
-
-* * *
+{% include embed_yt.html embed='https://www.youtube.com/embed/pfaZExA2ot0' %}
 
 ## Schedule
 

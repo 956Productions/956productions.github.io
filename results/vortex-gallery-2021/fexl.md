@@ -14,11 +14,11 @@ https://www.youtube.com/watch?v=fNWXDRhK3V0
 
 - 1st: [Disintegration](https://twitter.com/Disint3grati0n) (Hokuto)
 - 2nd: [Razzira](https://twitter.com/Razzira_) (Terry)
-- 3rd: FLY | [DiNyc3](https://twitter.com/DiNyc3st) (Jack)
+- 3rd: FLY \| [DiNyc3](https://twitter.com/DiNyc3st) (Jack)
 - 4th: [wavyammar](https://twitter.com/wavyamar) (Skullomania)
 - 5th: [Geki](https://twitter.com/Geki_CP) (Garuda)
 - 5th: [r0bib](https://twitter.com/mofibs) (D. Dark)
-- 7th: MC | [KBeast](https://twitter.com/KBeast707) (Sharon)
+- 7th: MC \| [KBeast](https://twitter.com/KBeast707) (Sharon)
 - 7th: [Xurkey](https://twitter.com/Xurkey) (Area)
 
 ## Tournament Details

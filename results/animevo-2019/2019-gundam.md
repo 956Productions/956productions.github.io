@@ -4,22 +4,20 @@ date: "2019-04-09"
 coverImage: "game_gundam_vs_us.png"
 ---
 
-![](https://i0.wp.com/animevo.moe/wordpress/wp-content/uploads/2019/10/gundam_top8.jpg?fit=840%2C473&ssl=1)
+![](/uploads/gundam_top8.jpg)
 
 Top 8
 
-## [Results](https://smash.gg/tournament/animevo-2019/events/gundam-versus-2v2-teams/overview			)
+## [Results](https://smash.gg/tournament/animevo-2019/events/gundam-versus-2v2-teams/overview)
 
-- 1st: JAPANESE OMOTENASHI | Densetsu no Okorizaru / MURAMON
-- 2nd: Super Bunnyhop | Reed / Sunhawk
-- 3rd: EXVS2お願いします | Yoyolon / DLnotame
-- 4th: O-ku-ri-mo-no UNGADAYS | PPay / AcidAce
-- 5th: GVS2 | GMcustom / CosmicLullaby
-- 5th: Pan | DelayNoMore | EX-Saber / MeijinHim
-- 7th: German EXVS2 Players | Scarecrow / Aqua
-- 7th: Super Middle Man | SuperNeo / MiddleMan
-
-* * *
+- 1st: JAPANESE OMOTENASHI \| Densetsu no Okorizaru / MURAMON
+- 2nd: Super Bunnyhop \| Reed / Sunhawk
+- 3rd: EXVS2お願いします \| Yoyolon / DLnotame
+- 4th: O-ku-ri-mo-no UNGADAYS \| PPay / AcidAce
+- 5th: GVS2 \| GMcustom / CosmicLullaby
+- 5th: Pan \| DelayNoMore \| EX-Saber / MeijinHim
+- 7th: German EXVS2 Players \| Scarecrow / Aqua
+- 7th: Super Middle Man \| SuperNeo / MiddleMan
 
 ## Schedule
 

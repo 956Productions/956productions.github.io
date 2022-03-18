@@ -10,14 +10,14 @@ coverImage: "arms-logo-420.png"
 
 ![](/uploads/E_GQzbiXIAgaHMV-1024x576.jpg)
 
-- 1st: IluZ | [Twinedfive0](https://twitter.com/Twinedfive0) (Lola Pop)
+- 1st: IluZ \| [Twinedfive0](https://twitter.com/Twinedfive0) (Lola Pop)
 - 2nd: [RandomPixelator](https://twitter.com/pixlelater) (Kid Cobra / Max Brass)
 - 3rd: [Serp](https://twitter.com/Serpikmin) (Max Brass)
-- 4th: IluZ | [Mileve](https://twitter.com/PlanetScrapstar) (Mechanica)
-- 5th: IB | Woomy (Helix / Ninjara)
-- 5th: FP | [Taco Cat](https://twitter.com/T3kn0path1c) (Lola Pop / Dr. Coyle)
+- 4th: IluZ \| [Mileve](https://twitter.com/PlanetScrapstar) (Mechanica)
+- 5th: IB \| Woomy (Helix / Ninjara)
+- 5th: FP \| [Taco Cat](https://twitter.com/T3kn0path1c) (Lola Pop / Dr. Coyle)
 - 7th: [Jiko](https://twitter.com/JikoDays) (Lola Pop)
-- 7th: ABC | [Luis](https://twitter.com/LuisM2138) (Helix)
+- 7th: ABC \| [Luis](https://twitter.com/LuisM2138) (Helix)
 
 ## North America Tournament Details
 
@@ -102,10 +102,10 @@ https://www.youtube.com/watch?v=cgPFXIfJC04
 - 2nd: [Pa](https://twitter.com/superman_arms) (Max Brass)
 - 3rd: [Kuru](https://twitter.com/Kidcluelix2) (Kid Cobra / Twintelle)
 - 4th: [Yuki](https://twitter.com/yuki_chan0419) (Min Min / Twintelle)
-- 5th: DTN | [KHU](https://twitter.com/KHUninja) (Ninjara / Twintelle)
+- 5th: DTN \| [KHU](https://twitter.com/KHUninja) (Ninjara / Twintelle)
 - 5th: [E-CO](https://twitter.com/_e_co) (Twintelle)
 - 7th: [POKOYAN](https://twitter.com/pokonica) (Mechanica)
-- 7th: DTN | [Shateau](https://twitter.com/Shateau_monky) (Dr. Coyle / Lola Pop)
+- 7th: DTN \| [Shateau](https://twitter.com/Shateau_monky) (Dr. Coyle / Lola Pop)
 
 ## Japan Tournament Details
 
