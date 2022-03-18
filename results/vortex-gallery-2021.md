@@ -1,6 +1,8 @@
 ---
 title: "Vortex Gallery (2021)"
 ---
+- [2021 Staff](/results/vortex-gallery-2021/staff)
+
 <div class="gridcontainer">
 	<!-- Row 1 -->
 	<a class="gridoneone" href="/results/vortex-gallery-2021/arms"><img src="/uploads/arms-logo-420.png" alt="Arms"></a>

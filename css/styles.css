@@ -120,6 +120,12 @@ iframe {
     max-width: 100%;
     height: auto;
 }
+
+.partner-logo {
+    max-width: 150px;
+    height: auto;
+}
+
 /*--- - -- 2021 Grid -- - --- */
 
 .gridcontainer {

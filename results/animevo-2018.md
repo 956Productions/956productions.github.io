@@ -1,6 +1,7 @@
 ---
 title: "AnimEVO 2018"
 ---
+- [2018 Staff](/results/animevo-2018/2018-staff)
 
 # Thanks for your play!
 

@@ -26,9 +26,6 @@ collections:
     create: true
     slug: '{{slug}}'
     preview_path: 'results/{{filename}}'
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
