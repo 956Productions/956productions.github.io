@@ -6,6 +6,13 @@ defaults:
     values:
       layout: "default"
       permalink: /:path/:basename
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+      permalink: /:year/:title
 plugins:
   - jekyll-seo-tag
 title: 956 Productions

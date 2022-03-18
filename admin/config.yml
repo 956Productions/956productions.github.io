@@ -6,13 +6,11 @@ backend:
 media_folder: 'uploads'
 publish_mode: editorial_workflow
 search: true
-site_url: https://956productions.github.io
+site_url: https://956.productions
 collections:
   - name: 'blog'
     label: 'Blog Post'
     folder: '_posts/'
-    editor:
-      preview: false
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: 'blog/{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -25,11 +23,12 @@ collections:
   - name: 'results'
     label: 'Results Page'
     folder: 'results/'
-    editor:
-      preview: false
     create: true
     slug: '{{slug}}'
     preview_path: 'results/{{filename}}'
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
@@ -39,8 +38,6 @@ collections:
   - name: 'pages'
     label: 'Static Page'
     folder: '/'
-    editor:
-      preview: false
     create: true
     slug: '{{slug}}'
     preview_path: '{{filename}}'
