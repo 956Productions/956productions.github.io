@@ -28,7 +28,7 @@ title: "Vortex Gallery (2021)"
 	<!-- Row 4 -->
 	<a class="gridfourone" href="/results/vortex-gallery-2021/inuyasha"><img src="/uploads/Inuyasha-A-Feudal-Fairytale-logo-420.png" alt="Inuyasha A Feudal Fairy Tale"></a>
 	<a class="gridfourtwo" href="/results/vortex-gallery-2021/jcfof"><img src="/uploads/Jackie-Chan-in-Fists-of-Fire-logo-420.png" alt="Jackie Chan in Fists of Fire"></a>
-	<a class="gridfourthree" href="/results/vortex-gallery-2021/jjbahftf"><img src="/uploads/jjbahftf-logo-420.png" alt="Jojo's Bizarre Adventure Heritage For The Future"></a>
+	<a class="gridfourthree" href="/results/vortex-gallery-2021/hftf"><img src="/uploads/jjbahftf-logo-420.png" alt="Jojo's Bizarre Adventure Heritage For The Future"></a>
 	<a class="gridfourfour" href="/results/vortex-gallery-2021/klk"><img src="/uploads/logo_klk.png" alt="Kill La Kill - IF"></a>
 	<a class="gridfourfive" href="/results/vortex-gallery-2021/kizuna"><img src="/uploads/Kizuna_Encounter.png" alt="Kizuna Encounter"></a>
 	
