@@ -126,6 +126,20 @@ iframe {
     height: auto;
 }
 
+.img-lightbox {
+    max-width: 320px !important;
+    height: auto !important;
+}
+
+.sidebar {
+    background-image: linear-gradient(
+  0deg,
+  hsl(0deg 0% 0%) 0%,
+  hsl(213deg 23% 7%) 50%,
+  hsl(214deg 12% 11%) 100%
+    ) !important;
+}
+
 /*--- - -- 2021 Grid -- - --- */
 
 .gridcontainer {
