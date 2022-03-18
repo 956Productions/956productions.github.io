@@ -4,7 +4,9 @@ date: "2018-04-26"
 coverImage: "logo_akatsuki.png"
 ---
 
-\[caption id="attachment\_873" align="aligncenter" width="840"\]![Akatsuki Blitzkampf Top 3](/uploads/Akatsuki-Blitzkampf-Top-3-1024x768.jpg) Akatsuki Blitzkampf Top 3\[/caption\]
+![Akatsuki Blitzkampf Top 3](/uploads/Akatsuki-Blitzkampf-Top-3-1024x768.jpg)
+
+Akatsuki Blitzkampf Top 3
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/akatsuki-blitzkampf/overview)
 

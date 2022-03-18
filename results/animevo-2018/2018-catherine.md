@@ -4,15 +4,15 @@ date: "2017-05-11"
 coverImage: "game_catherine.png"
 ---
 
-\[caption id="attachment\_805" align="aligncenter" width="840"\]![Catherine Top 4](/uploads/Catherine-Top-4-1024x768.jpg) Catherine Top 4\[/caption\]
+![Catherine Top 4](/uploads/Catherine-Top-4-1024x768.jpg) 
+
+Catherine Top 4
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/catherine/overview)
 
 > 1: [Shas](https://twitter.com/_Shasties_) 2: [Sig](https://twitter.com/psi_sig) 3: [Geordi](https://twitter.com/_geordi_) 4: [SilentBlackCat](https://twitter.com/silentblackcat_)
 > 
 > 5: [Linus](https://twitter.com/WasabiLinus) 6: [Dacidbro](https://twitter.com/Dacidbro) 7: [XSkulled](https://twitter.com/Xskulled) 7: [Sketches](https://twitter.com/MaesterSketches)
-
-* * *
 
 ## Schedule
 

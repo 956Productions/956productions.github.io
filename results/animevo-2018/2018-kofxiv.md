@@ -4,13 +4,25 @@ date: "2018-04-26"
 coverImage: "logo_kof14.png"
 ---
 
-\[caption id="attachment\_839" align="aligncenter" width="840"\]![KOF XIV Top 4](/uploads/KOFXIV-Top-4-1024x835.jpg) KOF XIV Top 4\[/caption\]
+![KOF XIV Top 4](/uploads/KOFXIV-Top-4-1024x835.jpg)
 
-> 1: [Blackwell|ET](@ET1120) (Shun/Heidern/Oswald/Leona) 2: Rowy|ZJZ (Najd/Leona/Yuri) 3: [Qanba DouyuXiaohai](@Xiaohai_) (Shun/Kula/Heidern/Iori) 4: [RG|Huevo](@ChonFx) (Mary/Ben/Iori)
-> 
-> 5: [WeroAsamiya](@weroasamiya) (Athena/Iori/Yuri) 5: [ViolentKain](@ViolentKain) (Najd/Iori/Kyo) 7: [TC|Y05H1](@TCY05H1) (Ben/Kula/Leona) 7: LV|Rigosam (Gang-il/Kukri/Shun)
+KOF XIV Top 4
 
-* * *
+1\. [Blackwell ET](@ET1120) (Shun/Heidern/Oswald/Leona)
+
+2\. Rowy ZJZ (Najd/Leona/Yuri)
+
+3\. [Qanba DouyuXiaohai](@Xiaohai_) (Shun/Kula/Heidern/Iori)
+
+4\. [RG Huevo](@ChonFx) (Mary/Ben/Iori)
+
+5\. [WeroAsamiya](@weroasamiya) (Athena/Iori/Yuri)
+
+5\. [ViolentKain](@ViolentKain) (Najd/Iori/Kyo)
+
+7\. [TC Y05H1](@TCY05H1) (Ben/Kula/Leona)
+
+7\. LV Rigosam (Gang-il/Kukri/Shun)
 
 ## Schedule
 

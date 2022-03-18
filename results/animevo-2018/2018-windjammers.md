@@ -4,15 +4,15 @@ date: "2018-05-01"
 coverImage: "logo_wj.png"
 ---
 
-\[caption id="attachment\_817" align="aligncenter" width="480"\]![Windjammers Top 8](/uploads/windjammers-top-8.jpg) Windjammers Top 8\[/caption\]
+![Windjammers Top 8](/uploads/windjammers-top-8.jpg)
+
+Windjammers Top 8
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/windjammers/overview)
 
 > 1: [Pyrotec](https://twitter.com/Pyrotek4) 2: [DonYann](https://twitter.com/SirDonYann) 3: [Keikun](https://twitter.com/Keikunnnnn_) 4: [Santa\_With\_Muscles](https://twitter.com/StupidJr)
 > 
 > 5: [Velvet](https://twitter.com/bernard_olin) 5: [Geordi](https://twitter.com/_geordi_) 7: [Crypt Kiddie](https://twitter.com/Crypt_Kiddie) 7: [Fireball](https://twitter.com/JamTheWind)
-
-* * *
 
 ## Schedule
 

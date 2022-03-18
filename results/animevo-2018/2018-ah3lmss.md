@@ -4,13 +4,27 @@ date: "2016-05-04"
 coverImage: "logo_ah3lmss.png"
 ---
 
-\[caption id="attachment\_870" align="aligncenter" width="927"\]![Fun times with AH3!](/uploads/unknown.png) Fun times with AH3!\[/caption\]
+![Fun times with AH3!](/uploads/ah3lmss-2018.webp)
+
+Fun times with AH3!
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/arcana-heart-3-lovemax-sixstars/overview)
 
-> 1: [Kazupachi](https://twitter.com/kazp777) (Doro/love/fire) 2: [DDR\_Dan](https://twitter.com/Regenned) (Schar/plant) 3: [Kyamei](https://twitter.com/hir0yuk1) (Akane/thunder/dark+Zen/wind) 4: [Tsukibaka](https://twitter.com/TsukiAho) (Fiona/wind+Zen/love) 5: [Mabushin](https://twitter.com/mabusin28) (Mei/wind/thunder) 5: [Shichimi](https://twitter.com/menn_kishi) (Liese/evil) 7: [AzureWanderings](https://twitter.com/AzureWanderings) (Weiss/love) 7: [Nickcool1996](https://twitter.com/Nickcool1996) (Kamui/tyr)
+1\. [Kazupachi](https://twitter.com/kazp777) (Doro/love/fire) 
 
-* * *
+2\. [DDR\_Dan](https://twitter.com/Regenned) (Schar/plant) 
+
+3\. [Kyamei](https://twitter.com/hir0yuk1) (Akane/thunder/dark+Zen/wind) 
+
+4\. [Tsukibaka](https://twitter.com/TsukiAho) (Fiona/wind+Zen/love) 
+
+5\. [Mabushin](https://twitter.com/mabusin28) (Mei/wind/thunder) 
+
+5\. [Shichimi](https://twitter.com/menn_kishi) (Liese/evil) 
+
+7\. [AzureWanderings](https://twitter.com/AzureWanderings) (Weiss/love) 
+
+7\. [Nickcool1996](https://twitter.com/Nickcool1996) (Kamui/tyr)
 
 ## Schedule
 

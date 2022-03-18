@@ -4,7 +4,7 @@ date: "2017-05-11"
 coverImage: "game_puyotet.png"
 ---
 
-\[caption id="attachment\_812" align="aligncenter" width="840"\]![Puyo Puyo Tetris Group Photo](/uploads/puyotet_group-1024x576.jpg) Puyo Puyo Tetris Group Photo\[/caption\]
+![Puyo Puyo Tetris Group Photo](/uploads/puyotet_group-1024x576.jpg) Puyo Puyo Tetris Group Photo
 
 ## [Swap Results](https://smash.gg/tournament/animevo-2018/events/puyo-puyo-tetris-swap/overview)
 
@@ -17,8 +17,6 @@ coverImage: "game_puyotet.png"
 > 1: [live](http://twitter.com/livedesu) (Alt!Lemres) 2: [acliv](http://twitter.com/aclivtak) (Ess) 3: [Tema](http://twitter.com/tema2424) (Arle) 4: ShiroBrawl (Arle/Ringo/Risukuma)
 > 
 > 5: [DdR\_Dan](http://twitter.com/Regenned) (Rulue) 5: [KirbyCombo35](http://twitter.com/KirbyCombo35) (Ex) 7: [Ouka](http://twitter.com/performerouka) (Maguro) 7: [Negisuke](http://twitter.com/negisuke649) (???)
-
-* * *
 
 ## Schedule
 

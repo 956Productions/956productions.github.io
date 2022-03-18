@@ -4,15 +4,13 @@ date: "2016-05-04"
 coverImage: "logo_unist.png"
 ---
 
-\[caption id="attachment\_819" align="aligncenter" width="840"\]![UNIST Top 4](/uploads/unist-top-4-1024x768.jpg) UNIST Top 4\[/caption\]
+![UNIST Top 4](/uploads/unist-top-4-1024x768.jpg) UNIST Top 4
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/under-night-in-birth-exe-late-st/overview)
 
 > 1: [Squish](https://twitter.com/squish2364) (Akatsuki) 2: [Heiho](https://twitter.com/tyuuboumove2007) (Merkava) 3: [Sai](https://twitter.com/Sai_Shitsuji) (Enkidu) 4: [Clim](https://twitter.com/christian_lim) (Merkava/Phonon)
 > 
 > 5: [Tari](https://twitter.com/tarisbox) (Yuzuriha) 5: [KFL](https://twitter.com/KaraFail) (Eltnum) 7: [LPT](https://twitter.com/LPT_actionwoman) (Byakuya) 7: [Lolimaiko](https://twitter.com/Lolimaiko) (Vatista)
-
-* * *
 
 ## Schedule
 

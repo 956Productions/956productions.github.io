@@ -6,7 +6,21 @@ coverImage: "logo_chaoscode.png"
 
 ## Results
 
-> 1\. Abegen (Bravo) 2. HitBox|TrophyClub (Lupinus) 3. Greats (Kagari) 4. ZeroHour (Rui) 5. Colossus (Celia II Kai) 5. GetoBaguette (Lupinus) 7. Coopa (Celia II Kai) 7. NGI|DBlanks (MG Hikaru)
+1\. Abegen (Bravo) 
+
+2\. HitBox|TrophyClub (Lupinus) 
+
+3\. Greats (Kagari) 
+
+4\. ZeroHour (Rui) 
+
+5\. Colossus (Celia II Kai) 
+
+5\. GetoBaguette (Lupinus) 
+
+7\. Coopa (Celia II Kai) 
+
+7\. NGI|DBlanks (MG Hikaru)
 
 ## Friday, July 14th @ 5PM
 

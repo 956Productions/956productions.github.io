@@ -4,15 +4,15 @@ date: "2016-05-04"
 coverImage: "game_melty.png"
 ---
 
-\[caption id="attachment\_821" align="aligncenter" width="840"\]![Melty Top 3](/uploads/melty-top-3-1024x768.jpg) Melty Top 3\[/caption\]
+![Melty Top 3](/uploads/melty-top-3-1024x768.jpg) 
+
+Melty Top 3
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/melty-blood-actress-again-current-code-2/overview)
 
 > 1: [Ura](https://twitter.com/sonic_uhs_ronso) (H-Satsuki) 2: [Rakuchan](https://twitter.com/rak296) (H-Len) 3: [uncle\_akkili](https://twitter.com/uncle_akkili) (H-Len) 4: [KFL](https://twitter.com/KaraFail) (C-Arcuied)
 > 
 > 5: [hirohiro](https://twitter.com/hiro_meari) (C-White Len) 5: [Moai](https://twitter.com/moai_no_oh) (C-Satsuki) 7: [CT Warrior](https://twitter.com/CT_Warrior) (C-Kohaku) 7: [Tsukibaka](https://twitter.com/TsukiAho) (C-Arcuied)
-
-* * *
 
 ## Schedule
 

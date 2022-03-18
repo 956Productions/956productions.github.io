@@ -4,15 +4,31 @@ date: "2018-04-26"
 coverImage: "logo_tmnttf.png"
 ---
 
-\[caption id="attachment\_829" align="aligncenter" width="840"\]![TMNT:TF Group Photo](/uploads/tmnt-group-1024x768.jpg) TMNT:TF Group Photo\[/caption\]
+![TMNT:TF Group Photo](/uploads/tmnt-group-1024x768.jpg) 
+
+TMNT:TF Group Photo
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/tmnt-tournament-fighters/overview)
 
-> 1: [LordBBH](https://twitter.com/LordBBH) (Raphael) 2: RockHoward2k (Raphael) 3: [Nostalgic](https://twitter.com/nostalgic_91) (Armaggon) 4: TrophyClub () 5: [tone](https://twitter.com/tone765) (Cyber Shredder) 5: Nope () 7: [Argenrost](https://twitter.com/Argenrost) () 7: [Hagure](https://twitter.com/hagure) (Armaggon/Raphael/Wingnut)
+1\. [LordBBH](https://twitter.com/LordBBH) (Raphael) 
 
-## 
+2\. RockHoward2k (Raphael)
 
-\[caption id="attachment\_830" align="aligncenter" width="840"\]![TMNT:TF Top 3](/uploads/tmnt-top-3-1024x768.jpg) TMNT:TF Top 3\[/caption\]
+3\. [Nostalgic](https://twitter.com/nostalgic_91) (Armaggon)
+
+4\. TrophyClub ()
+
+5\. [tone](https://twitter.com/tone765) (Cyber Shredder)
+
+5\. Nope ()
+
+7\. [Argenrost](https://twitter.com/Argenrost) ()
+
+7\. [Hagure](https://twitter.com/hagure) (Armaggon/Raphael/Wingnut)
+
+![TMNT:TF Top 3](/uploads/tmnt-top-3-1024x768.jpg)
+
+TMNT:TF Top 3
 
 ## Schedule
 

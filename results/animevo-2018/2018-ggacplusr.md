@@ -4,15 +4,15 @@ date: "2016-05-04"
 coverImage: "game_ggplusr.png"
 ---
 
-\[caption id="attachment\_866" align="aligncenter" width="840"\]![GGAC+R Top 8](/uploads/r-top-3-1-1024x576.jpg) GGAC+R Top 8\[/caption\]
+![GGAC+R Top 8](/uploads/r-top-3-1-1024x576.jpg)
+
+GGAC+R Top 8
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/guilty-gear-xx-accent-core-r/overview)
 
 > 1: [Kedako](https://twitter.com/kedako_faital) (May) 2: [shichimi](https://twitter.com/menn_kishi) (Zappa) 3: [TAKA](https://twitter.com/mochida_tw) (Anji) 4: [ElvenShadow](https://twitter.com/elvenshadowmike) (Faust)
 > 
 > 5: [Woocash](https://twitter.com/LukeShooty) (Anji/Baiken) 5: [Granola](https://twitter.com/RealGranola) (Slayer) 7: [DQRF](https://twitter.com/DQRF52) (Sol) 7: Slash Gordon (I-No)
-
-* * *
 
 ## Schedule
 

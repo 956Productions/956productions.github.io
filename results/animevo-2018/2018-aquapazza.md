@@ -4,13 +4,15 @@ date: "2020-03-09"
 coverImage: "game_aquapazza.png"
 ---
 
-\[caption id="attachment\_860" align="aligncenter" width="840"\]![Aquapazza Top 3](/uploads/aquapazza-top-3-1024x768.jpg) Aquapazza Top 3\[/caption\]
+![Aquapazza Top 3](/uploads/aquapazza-top-3-1024x768.jpg)
+
+Aquapazza Top 3
 
 ## [Results](https://smash.gg/tournament/animevo-2018/events/aquapazza-aquaplus-dream-match/overview)
 
-> 1. 1. [mabusin](https://twitter.com/mabusin28) (Chizuru)
->     2. [lark](https://twitter.com/larkvs) (Oboro)
->     3. [tone](https://twitter.com/tone765) (Konomi)
+1. [mabusin](https://twitter.com/mabusin28) (Chizuru)
+2. [lark](https://twitter.com/larkvs) (Oboro)
+3. [tone](https://twitter.com/tone765) (Konomi)
 
 ## Schedule
 
