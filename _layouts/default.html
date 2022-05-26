@@ -21,6 +21,13 @@
 	<!-- Content wrapper start -->
 		<div class="content-wrapper">
 			<div class="container-fluid body">
+				{% if page.banner %}
+				<div style="background-image: url('/img/{{ page.banner }}'); background-position: center; background-size: cover; background-repeat: no-repeat; height: 400px;"> 
+					<div class="text-hero">
+						<h1 class="hero-text font-weight-bold">{{ page.caption }}</h1>
+					</div>
+				</div>
+				{% endif %}
 				<div class="row justify-content-center">
 					{% if page.toc %}
 						<div class="postbody col-lg-9">
@@ -32,8 +39,8 @@
 							<h1 class="content-title">
 								{{ page.title }}
 							</h1>
+							<hr/>
 							{% endif %}
-							<hr />
 							{{ content }}
 						</div>
 					</div>
