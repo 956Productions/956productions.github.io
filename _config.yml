@@ -30,3 +30,5 @@ events:
   -
     name: Winter Gaiden
     url: https://winter.vortexgallery.moe
+csv_reader:
+  liberal_parsing: true

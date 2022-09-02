@@ -6,13 +6,13 @@
 <table class="table table-striped">
     <thead>
         <th> Placement </th>
-        <th> Player </th>
+        <th> Entrant </th>
     </thead>
     <tbody>
     {% for p in file[1] %}
         <tr>
             <th>{{ p["Event Placement"] }}</th>
-            <th>{{ p["Player GamerTag"] }}</th>
+            <th>{{ p["Player GamerTag"] | default: p["Entrant"] }}</th>
         </tr>
     {% endfor %}
     </tbody>
