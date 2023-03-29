@@ -1,6 +1,6 @@
 {% assign sortedResults = site.data.results[include.event] | sort: [0] %}
 {% for file in sortedResults %}
-### {{ file[0] | replace: "_"," " | remove: include.title }}
+### {{ file[0] | replace: "_"," " | remove: include.title | remove: "Top 4" }}
 <hr/>
 <div class="table-responsive">
 <table class="table table-striped">

@@ -1,0 +1,28 @@
+{% assign results = site.data.results[include.event] %}
+{% assign game = '' %}
+{% for i in results['output'] %}
+{% unless game contains i['Game'] %}
+### {{i['Game']}}
+<hr>
+{% assign game = i['Game'] %}
+{% endunless %}
+#### {{i['Region'] | replace: 'ALL', 'Global' }}
+<ul>
+    <li><a href='{{i['Bracket']}}'>Bracket</a></li>
+    {% if i['VOD'] %}<li>{{i['VOD']}}</li>{% endif %}
+</ul>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            {% unless i['Game'] contains 'Splatoon' %}<th> Top 4 </th>{% endunless %}
+            {% if i['Game'] contains 'Splatoon' %}<th> Finalist Teams </th>{% endif %}
+        </thead>
+        <tbody>
+            <tr><td>{{i['1']}}</td></tr>
+            <tr><td>{{i['2']}}</td></tr>
+            {% if i['3'] %}<tr><td>{{i['3']}}</td></tr>{% endif %}
+            {% if i['4'] %}<tr><td>{{i['4']}}</td></tr>{% endif %}
+        </tbody>
+    </table>
+</div>
+{% endfor%}

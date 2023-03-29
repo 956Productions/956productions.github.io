@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .toc {
     position: fixed;
-    max-height: 65%;
+    max-height: 90%;
     overflow-y: auto;
 }
 .body {

@@ -10,5 +10,5 @@ toc: true
 - [956 Productions Stream VODs](https://www.youtube.com/playlist?list=PLSVgm8eVRIsxA5jwNwyd9MbVe6I9AZ5of)
 - [Vortex Gallery Community Stream VODs](https://www.youtube.com/playlist?list=PLSVgm8eVRIszud_V_iv3eY_XK5P5BU2LY)
 
-## Results Tables
+## Top 4 Placements
 {% include results.html event='vgevo22' title='Vortex Gallery' %}
